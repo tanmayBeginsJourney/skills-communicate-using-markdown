@@ -14,6 +14,9 @@ def __init__(self, type, ammo):
 
 my_blickie = Gun()
 ```
-
+### checklist before we pull up on 63rd
+- [x] backup whip
+- [x] kobe blessing
+- [ ] gta 6 release
 
 i learnt basic markdown twin. one hash means biggie sliding on you !! 6 hashes turn it funsized
